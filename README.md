@@ -20,7 +20,10 @@ This is what I will be using to track my progress:
 |.                         |sizes with device mode in  |.         |.         |
 |.                         |chrome dec tools.          |Article   |.         |
 |.                         |Tsunami Coffee.            |Project.  |.         |
-|                        |
+|Learn CSS: Documentation& |.                          |.         |.         |
+|debugging                 |Documentation and Research |Lesson    |.         |
+|.                         |Off platform project: Fotomatic | Project  |.         |
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
